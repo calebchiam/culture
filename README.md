@@ -19,15 +19,15 @@ These principles define how we **ACT**: **A**ct, **T**hink, and **C**reate.
 #### 2. Be Empathetic
 * EQ is as important, if not more important, than IQ. Importantly, EQ includes self-empathy.
 
-#### 3. Have Courageous Conversations
-* Be brave. Give each other honest feedback when there is a problem. These conversations diversify thinking and enhance empathy.
-
-#### 4. Be Helpful
+#### 3. Be Helpful
 * Our best work comes when we work together effectively. We succeed only if we help each other succeed.
+* 
+#### 4. Have Courageous Conversations
+* Be brave. Give each other honest feedback when there is a problem. These conversations diversify thinking and enhance empathy.
 
 ### How we tackle problems
 
-#### 5. Own your work
+#### 5. Own Your Work
 * We own our problems and solutions. We take pride in the work that we do.
 
 #### 6. Have Substance
